@@ -1,5 +1,5 @@
-Chef has an array A of length N. In one operation, Chef can remove any one element from the array. Determine the minimum number of operations required to make all 
-the elements same.
+# Chef has an array A of length N. In one operation, Chef can remove any one element from the array. Determine the minimum number of operations required to make all 
+# the elements same.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
